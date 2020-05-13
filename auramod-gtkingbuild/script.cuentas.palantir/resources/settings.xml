@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<settings>
-    <setting label="Usuario UpToBox" type="text" id="username_uptobox" default=""/>
-    <setting label="Contraseña UpToBox" type="text" id="pass_uptobox" option="hidden" default=""/>
-</settings>
